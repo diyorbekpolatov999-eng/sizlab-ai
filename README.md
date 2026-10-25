@@ -1,1 +1,1 @@
-# sizlab-ai
+# Sozlab-AI
